@@ -1,0 +1,53 @@
+module.exports = { 
+
+    "Avertising  Network": "Advertising",
+    "ads txt": "Advertising",
+    "Ad Exchange": "Advertising",
+    "Audience Targeting": "Advertising",
+    "Facebook Exchange": "Advertising",
+    "Ad Server": "Advertising",
+    "Affiliate Programs": "Advertising",
+    "Contextual Advertising": "Advertising",
+    "Dynamic Creative Optimization": "Advertising",
+    "Digital Video Ads": "Advertising",
+    "Retargeting / Remarketing": "Advertising",
+    "Header Bidding": "Advertising",
+
+    "Application Performance": "Analytics and Tracking",
+    "A/B Testing": "Analytics and Tracking",
+    "Ad Analytics": "Analytics and Tracking",
+    "Conversion Optimization": "Analytics and Tracking",
+    "Advertiser Tracking": "Analytics and Tracking",
+    "Tag Management": "Analytics and Tracking",
+    "Audience Measurement": "Analytics and Tracking",
+    "Visitor Count Tracking": "Analytics and Tracking",
+
+    "Non Platform": "Ecommerce",
+    "Hosted Solution": "Ecommerce",
+    "Open Source": "Ecommerce",
+    "Checkout Buttons": "Payment",
+    "Payment Acceptance": "Payment",
+    "Payments Processor": "Payment",
+    "Payment Currency": "Payment",
+
+    "Live Chat": "Widgets",
+    "Login": "Widgets",
+    "Ticketing System": "Widgets",
+    "Bookings": "Widgets",
+    "Social Sharing": "Widgets",
+    "Schedule Management": "Widgets",
+
+    "Cloud Hosting": "Web Hosting Providers",
+    "Cloud PaaS": "Web Hosting Providers",
+    "Dedicated Hosting": "Web Hosting Providers",
+    "Web Hosting Provider Email": "Email Hosting Providers",
+    "Business Email Hosting": "Email Hosting Providers",
+    "Marketing Platform": "Email Hosting Providers",
+
+    "CRM": "Analytics and Tracking",
+    "Lead Generation": "Analytics and Tracking",
+    "Marketing Automation": "Widgets",
+    "Product Recommendations": "Analytics and Tracking",
+    "Feedback Forms and Surveys": "Analytics and Tracking",
+    "Campaign Management": "Email Hosting Providers"
+}
